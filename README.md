@@ -17,7 +17,7 @@ Table of Contents
 
 
 Day 1: Kubernetes Architecture and Components**
-**
+
 Explore the fundamental architecture of Kubernetes, including the control plane, worker nodes, and essential components like Pods, Services, and Deployments.
 
 Read the full blog post here: https://medium.com/@gauravbharane/the-kubeweek-challenge-day-1-6ff1c8c08daf
